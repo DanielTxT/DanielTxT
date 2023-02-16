@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **DanielTxT/DanielTxT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Daniel Aguilar Rodríguez </h1>  
+<h1 align="center">Hello There! README </h1>
+
+
+
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYyZWI3ODJjZTI4MWYzNjRhMDhiMjZiN2NhZDgyOTIwY2Q4MjdjYSZjdD1n/mlvseq9yvZhba/giphy.gif)

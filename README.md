@@ -1,7 +1,6 @@
 # HOLA
 ## Mi nombre es Daniel Aguilar Rodríguez pero, todos podéis llamarme Dani
-
-![hello](https://tenor.com/es/view/kpop-jackson-got7-gif-24299023)
+![](https://gifdb.com/gif/jackson-wang-annyeong-hello-ydkcpdv50tiftrf1.html)
 
 
 
